@@ -1,0 +1,7 @@
+[user]
+	email = just-keep-on-laughing@hotmail.co.jp
+	name = yamatyan333
+[push]
+	default = simple
+[core]
+	editor = vim
