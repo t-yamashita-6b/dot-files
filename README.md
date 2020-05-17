@@ -1,5 +1,5 @@
-# dotfiles
-My dotfile Collection
+# dot-files
+This is my favorite dotfile settings.
 
 ## Set up Home Dir
  1. Rename or Remove existing Config files. 
@@ -26,3 +26,4 @@ My dotfile Collection
 1. Install vim-plug.
  - ``` curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim ```
 2. If something goes wrong, please refer [vim-plug original repository](https://github.com/junegunn/vim-plug) .
+
